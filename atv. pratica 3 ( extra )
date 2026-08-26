@@ -1,0 +1,6 @@
+root@ubuntu:~$ uptime 
+ 23:28:38 up 42 min,  0 user,  load average: 0.00, 0.00, 0.00
+root@ubuntu:~$ hostname -i
+127.0.0.1
+
+
