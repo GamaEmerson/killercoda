@@ -1,0 +1,40 @@
+root@ubuntu:~$ mkdir atividade-nuvem
+root@ubuntu:~$ cd atividade-nuvem
+root@ubuntu:~/atividade-nuvem$ pwd
+/root/atividade-nuvem
+root@ubuntu:~/atividade-nuvem$ ls
+root@ubuntu:~/atividade-nuvem$ grupo.txt
+grupo.txt: command not found
+root@ubuntu:~/atividade-nuvem$ echo grupo.txt
+grupo.txt
+root@ubuntu:~/atividade-nuvem$ echo "nome dos integrantes: Emerson / Michael" > mensagem.txt
+root@ubuntu:~/atividade-nuvem$ echo "Disciplina: Computacao em nuvem" >> mensagem.txt 
+root@ubuntu:~/atividade-nuvem$ echo "Ambiente utilizado: Killercoda" >> mensagem.txt
+root@ubuntu:~/atividade-nuvem$ ech0 "Sistema operacional: cat /etc/os-release" >>mensagem.txt
+Command 'ech0' not found, did you mean:
+  command 'echo' from deb coreutils (9.4-3ubuntu6.2)
+Try: apt install <deb name>
+root@ubuntu:~/atividade-nuvem$ ^C
+root@ubuntu:~/atividade-nuvem$ ^C
+: command not found
+root@ubuntu:~/atividade-nuvem$ echo "Sistema operacional: cat/etc/os-release" >>mensagem.txt
+root@ubuntu:~/atividade-nuvem$ echo "hostname: ubuntu" >>mensagem.txt
+root@ubuntu:~/atividade-nuvem$ cat mensagem.txt
+nome dos integrantes: Emerson / Michael
+Disciplina: Computacao em nuvem
+Ambiente utilizado: Killercoda
+Sistema operacional: cat/etc/os-release
+hostname: ubuntu
+root@ubuntu:~/atividade-nuvem$ cat grupo.txt
+cat: grupo.txt: No such file or directory
+root@ubuntu:~/atividade-nuvem$ cat atividade.txt
+cat: atividade.txt: No such file or directory
+root@ubuntu:~/atividade-nuvem$ cat atividade-nuvem.txt
+cat: atividade-nuvem.txt: No such file or directory
+root@ubuntu:~/atividade-nuvem$ cat mensagem.txt
+nome dos integrantes: Emerson / Michael
+Disciplina: Computacao em nuvem
+Ambiente utilizado: Killercoda
+Sistema operacional: cat/etc/os-release
+hostname: ubuntu
+root@ubuntu:~/atividade-nuvem$ 
