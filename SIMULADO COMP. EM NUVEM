@@ -1,0 +1,21 @@
+questão 1  C
+questão 2  A
+questão 3  E
+questão 4  B
+questão 5  D
+questão 6  A
+questão 7  C
+questão 8  E 
+questão 9  B
+questão 10 D
+questão 11 A
+questão 12 C
+questão 13 E
+questão 14 B
+questão 15 D
+questão 16 A
+questão 17 C
+questão 18 E
+questão 19 Modelo IaaS / Modelo de Responsabilidade Compartilhada: Responsabilidade do Provedor de Nuvem , Responsabilidade da Empresa /a empresa devera utilizar o recurso de Escalonamento Automático combinado a um Balanceador de Carga / Programar o desligamento automático de ambientes de teste e instâncias temporárias fora do horário de uso.
+
+questão 20 imagem é como uma receita define oque sera necessário para criar o ambiente e o contêiner é a receita em execução, uma instancia criada a partir da imagem 
