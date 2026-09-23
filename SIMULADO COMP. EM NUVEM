@@ -1,3 +1,5 @@
+ATIVIDADE 1 TEORICA
+
 questão 1  C
 questão 2  A
 questão 3  E
@@ -18,4 +20,12 @@ questão 17 C
 questão 18 E
 questão 19 Modelo IaaS / Modelo de Responsabilidade Compartilhada: Responsabilidade do Provedor de Nuvem , Responsabilidade da Empresa /a empresa devera utilizar o recurso de Escalonamento Automático combinado a um Balanceador de Carga / Programar o desligamento automático de ambientes de teste e instâncias temporárias fora do horário de uso.
 
-questão 20 imagem é como uma receita define oque sera necessário para criar o ambiente e o contêiner é a receita em execução, uma instancia criada a partir da imagem 
+questão 20 imagem é como uma receita define oque sera necessário para criar o ambiente e o contêiner é a receita em execução, uma instancia criada a partir da imagem / verificaria executando o comando DOCKER PS no terminal que lista todos os conteiners que estão ativos no momento e verificar a coluna PORTS, e depois testaria pelo comando curl -I http://localhost:8090
+
+ATIVIDADE 2  PRATICA 
+
+1.nginx:alpine é a imagem e o conteiner comunicado  em execução criado a partir dessa imagem
+
+2. é o mapeamento de portas que estabelece o redirecionamento de rede entre o servidor(8090) e o host (80)
+
+3. http://localhost:8090 que exibe diretamente o código HTML da página criada
